@@ -3,7 +3,8 @@
 
 <h2 align="left">About me</h2>
 <p align="left">
-	🔭 I’m currently working on a websocket framework<br><br>📚 I'm currently learning Low Level Networking.<br><br>
+	🔭 I’m currently working on a QR code library.<br><br>
+	📚 I'm currently learning Low Level Networking.<br><br>
 	🎯 Goals: Becoming proficient in Fullstack Development, being able to build a webservice from top to bottom, and contributing to the field of backend frameworks through innovative projects.<br><br>
 	🎲 Fun fact: I'm a language enthusiast! I'm fascinated by different languages and cultures.
 </p>
